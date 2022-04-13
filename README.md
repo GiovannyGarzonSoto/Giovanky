@@ -4,7 +4,7 @@
 
 - I am currently working with html, css and javascript thoroughly worrying about having the best possible performance
 
-- Following the javascript path I am also working with node js making api
+- Following the javascript way I am also working with node js making api
 
 - This year I graduated from university, so there is still a lot to learn
 
