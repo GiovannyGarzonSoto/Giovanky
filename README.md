@@ -6,7 +6,7 @@ Soy un desarrollador fullstack con experiencia en la creación de aplicaciones w
 - Desarrollo frontend utilizando HTML, CSS y TS.
 - Experiencia con frameworks populares como React y Vue.
 - Desarrollo backend utilizando Node.js y bases de datos como MongoDB y MariaDB.
-- Conocimientos en la creación de APIs RESTful y GraphQL.
+- Conocimientos en la creación de APIs RESTfull con Nodejs, Nestjs y GraphQL.
 
 [Portafolio](https://giovanky.github.io/portfolio/)
 
